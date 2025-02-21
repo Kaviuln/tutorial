@@ -1,0 +1,13 @@
+INFO 2025-02-21 21:26:32,620 autoreload Watching for file changes with StatReloader
+WARNING 2025-02-21 21:26:39,231 base Session data corrupted
+INFO 2025-02-21 21:26:39,295 basehttp "GET / HTTP/1.1" 200 37246
+INFO 2025-02-21 21:26:39,662 basehttp "GET /custom_static/assets/img/pages/home/hero-image.svg HTTP/1.1" 200 10578
+INFO 2025-02-21 21:26:39,669 basehttp "GET /custom_static/assets/img/pages/home/cards/icon2.svg HTTP/1.1" 200 97550
+INFO 2025-02-21 21:26:39,682 basehttp "GET /custom_static/assets/img/pages/home/pt-gui-card-2.svg HTTP/1.1" 200 14546
+INFO 2025-02-21 21:26:39,687 basehttp "GET /custom_static/assets/img/pages/home/appattack-card.svg HTTP/1.1" 200 64178
+INFO 2025-02-21 21:26:39,687 basehttp "GET /custom_static/assets/img/pages/home/cards/icon8.svg HTTP/1.1" 200 240305
+INFO 2025-02-21 21:26:39,693 basehttp "GET /custom_static/assets/img/pages/home/threat-intel-card.svg HTTP/1.1" 200 22602
+INFO 2025-02-21 21:26:39,695 basehttp "GET /custom_static/assets/img/pages/home/company-mission.svg HTTP/1.1" 200 23024
+INFO 2025-02-21 21:26:39,697 basehttp "GET /custom_static/assets/img/pages/home/cards/icon1.svg HTTP/1.1" 200 18153
+INFO 2025-02-21 21:26:39,698 basehttp "GET /custom_static/assets/img/pages/home/company-vision.svg HTTP/1.1" 200 15516
+INFO 2025-02-21 21:26:39,772 basehttp "GET /custom_static/assets/img/favicon/site.webmanifest HTTP/1.1" 304 0
